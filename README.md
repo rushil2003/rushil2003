@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**rushil2003/rushil2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**rushil2003/rushil2003** 
 
 - 🔭 I’m currently working on  Android , Student
 - 🌱 I’m currently learning C , C++ , Java
